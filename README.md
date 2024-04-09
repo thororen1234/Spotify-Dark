@@ -1,13 +1,13 @@
 A Github Dark Theme for Spotify
 
-Made by: SyndiShanX
+Made by: SyndiShanX, Thororen
 
 Installation:
-Copy SyndiShanX folder into your Spicetify Themes Folder (%appdata%\spicetify\Themes)
+Copy DarkWumpus folder into your Spicetify Themes Folder (%appdata%\spicetify\Themes)
 
 Apply the theme with:
 
-`spicetify config current_theme SyndiShanX`
+`spicetify config current_theme DarkWumpus`
 
 The only Color Scheme Included is spotify-dark, apply it with:
 
@@ -15,5 +15,5 @@ The only Color Scheme Included is spotify-dark, apply it with:
 
 Preview:
 
-![Chat](https://syndishanx.github.io/Spotify-Dark/Images/Spotify-Dark-Home.png)
-![Settings](https://syndishanx.github.io/Spotify-Dark/Images/Spotify-Dark-Playlist.png)
+![Chat](./Images/Spotify-Dark-Home.png)
+![Settings](./Images/Spotify-Dark-Playlist.png)

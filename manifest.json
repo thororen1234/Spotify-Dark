@@ -3,12 +3,19 @@
 	"description": "A Github Dark Theme for Spotify, Inspired by Github Dark",
 	"preview": "Images/Spotify-Dark-Home.png",
 	"readme": "README.md",
-	"usercss": "SyndiShanX/user.css",
-	"schemes": "SyndiShanX/color.ini",
+	"usercss": "DarkWumpus/user.css",
+	"schemes": "DarkWumpus/color.ini",
 	"authors": [
-		{ "name": "SyndiShanX", "url": "https://github.com/SyndiShanX" }
+		{
+			"name": "SyndiShanX",
+			"url": "https://github.com/SyndiShanX"
+		},
+		{
+			"name": "Thororen",
+			"url": "https://github.com/thororen1234"
+		}
 	],
 	"include": [
-		"https://raw.githubusercontent.com/SyndiShanX/Spotify-Dark/main/zoomTheme.js"
+		"https://raw.githubusercontent.com/thororen1234/Spotify-Dark/main/zoomTheme.js"
 	]
 }
